@@ -1,0 +1,23 @@
+[INFO] helloo ffff at 2022-11-01 16:37:31 +0600
+[INFO] [CALL] helloo ffff at 2022-11-01 16:37:46 +0600
+[INFO] [CALL] helloo ffff at 2022-11-01 16:39:02 +0600
+[INFO] hello world at 2022-11-01 16:39:09 +0600
+[INFO] [API CALLS] api is calling at 2022-11-01 16:39:09 +0600
+[INFO] hello at 2022-11-01 16:39:09 +0600
+[WARN] this is a warning at 2022-11-01 16:39:09 +0600
+[ERROR] this is an error at 2022-11-01 16:39:09 +0600
+[INFO] hello world at 2022-11-01 16:39:23 +0600
+[INFO] [API CALLS] api is calling at 2022-11-01 16:39:23 +0600
+[INFO] hello at 2022-11-01 16:39:23 +0600
+[ERROR] this is an error at 2022-11-01 16:39:23 +0600
+[WARN] this is a warning at 2022-11-01 16:39:23 +0600
+[ERROR] this is an error at 2022-11-01 16:40:19 +0600
+[INFO] hello at 2022-11-01 16:40:19 +0600
+[WARN] this is a warning at 2022-11-01 16:40:19 +0600
+[INFO] hello world at 2022-11-01 16:40:19 +0600
+[INFO] [API CALLS] api is calling at 2022-11-01 16:40:19 +0600
+[WARN] this is a warning at 2022-11-01 16:42:24 +0600
+[ERROR] this is an error at 2022-11-01 16:42:24 +0600
+[INFO] hello world at 2022-11-01 16:42:24 +0600
+[INFO] [API CALLS] api is calling at 2022-11-01 16:42:24 +0600
+[INFO] hello at 2022-11-01 16:42:24 +0600
